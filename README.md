@@ -40,9 +40,8 @@
 
  <div  align="center" > 
  
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tankvivek&show_icons=true&locale=en" alt="tankvivek" />
-
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tankvivek&show_icons=true&locale=en&layout=compact" alt="tankvivek" />
+ <img width="45%" height="205px" src="https://github-readme-stats.vercel.app/api?username=tankvivek&show_icons=true&locale=en" alt="tankvivek" />
+ <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tankvivek&show_icons=true&locale=en&layout=compact" alt="tankvivek" />
 
  
  
