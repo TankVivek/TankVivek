@@ -35,19 +35,25 @@
   &nbsp;  &nbsp;
   <img width=35px;  height =35px;  src="https://rohithanss.github.io/skills/nodejs.png" alt="">
 </p>                                                                                                                                                                                                                                                                                  
-<br> <br>                                                                                                                                               
+<br> <br>    
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tankvivek&show_icons=true&locale=en&layout=compact" alt="tankvivek" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tankvivek&show_icons=true&locale=en" alt="tankvivek" /></p>
+ <div  align="center" > 
+ 
+ <img color="black"  width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tankvivek&show_icons=true&locale=en" alt="tankvivek" />
 
-<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tankvivek&" alt="tankvivek" /></p>
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tankvivek&show_icons=true&locale=en&layout=compact" alt="tankvivek" />
 
-  <div  align="center" >  </td><td valign="top" width="50%"> 
-  
-<img scr="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"  align="center">
+ 
+ 
+ <BR> <BR>
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=tankvivek&" alt="tankvivek" />
+
 
  </div>
+ 
+<!--  FOOTER -->
  
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
 <!-- <div>                                                                                                                                                                                  
