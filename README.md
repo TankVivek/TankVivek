@@ -47,7 +47,7 @@
  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=tankvivek&show_icons=true&locale=en" alt="tankvivek" />
  <img width="45%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tankvivek&show_icons=true&locale=en&layout=compact" alt="tankvivek" />
 
- 
+ <img src="https://ghchart.rshah.org/TankVivek" alt="Akash-298" style="width: 100%;height: auto; margin-top: 5vh;color: green;">
  <BR> <BR>
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=tankvivek&" alt="tankvivek" />
