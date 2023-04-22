@@ -2,58 +2,53 @@
 
 <h1 align="center"> Hi, I'm Vivek 👋 </h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Hello%2C+everyone!;My+name+is+Jaydeep+Sondagar;I'm+23+years+old;I+live+in+Surat+Gujarat;Be+welcome!)](https://git.io/typing-svg)
 
 
+- 🌱 I’m currently Learning Web development course at Tops-Technologies
+- 📫 Check Profile : <a href="https://sondagarjaydeep13.github.io/fetch-API-JavaScript/MyPortfolio/index.html">https://sondagarjaydeep13.github.io/fetch-API-JavaScript/MyPortfolio/index.html</a>
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Technologies+I'm+learn)](https://git.io/typing-svg)
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=js,html,css,git,nodejs,mysql,mongodb,vscode,github,expressjs" /><br>
+  </div>
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=My+Project)](https://git.io/typing-svg)
+  <div align="left">
+         <h3> 🔭  Chat Apps  :  <a href="https://chatapps-d7js.onrender.com" >click here</a></h3> 
 
 
-<h1 align="center"> A Passionate Full Stack Developer.
+  </div>
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Where+to+find+me)](https://git.io/typing-svg)
  
-</h1>
+[<img src="https://img.shields.io/badge/instagram-E75480?style=for-the-badge&logo=instagram&logoColor=white"/>](https://instagram.com/iamjaydeep.007)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/jaydeep-sondagar-55bb871a3)
+[<img src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/JaydeepSondagar)
 
-<p  align="center">
-  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=vivek-tank-a309aa236"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width=160px;  height =40px; ></a></p> <br>
 
-<!-- <h1 align="center" >    <img  width=200px;  height =300px;   src="https://raw.githubusercontent.com/Solomonkassa/Solomonkassa/main/myfavor.gif" />      </h1> -->
-
-<p align="center" > <img align="center" alt="GIF" src="https://camo.githubusercontent.com/95475d0056f99f50fba3b5f027ac9fbb15d0fc422f675d445df20ccac6e70539/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313632313730353534323433372f3473685579456b32742e676966" width="350"/> </p>
+ 
+<div align="center">  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sondagarjaydeep13&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt=" Vitor Hugo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sondagarjaydeep13&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+   <br>
+   <div align="center">
+     <img width="50%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=sondagarjaydeep13&background=lightblue&color=white&icon_color=white&hide_border=true"  alt=" Vitor Hugo github stats"/>
+  
+   
 <br>
+  <br>
+  
+<div align="center">
+<p><b>Visitor Count</b></p>
+<p><img src="https://profile-counter.glitch.me/{sondagarjaydeep13}/count.svg" /></p>  
 
- <p align="center">
-<img align="center"   width=140px;  height =30px;   src="https://komarev.com/ghpvc/?username=tankvivek&label=Profile%20views&color=0e75b6&style=flat" alt="tankvivek" /> </p>
-
-<!-- <h3 align="left">Connect with me:</h3> -->
-<br>                                                                                                                                               
-<h3 align="center" >Languages and Tools:</h3>
-<br>
-<p align="center" >
- 
-<img   width=35px;  height =35px; src="https://i.postimg.cc/fRbKFQ8X/Html.png" alt="">
-  &nbsp;  &nbsp;
-<img  width=35px;  height =35px; src="https://i.postimg.cc/VNpDnZBt/Css.png" alt="">
-  &nbsp;  &nbsp;
-  <img  width=35px;  height =35px; src="https://www.javascripttutorial.net/wp-content/uploads/2021/04/JavaScript-Tutorial.svg" alt="">
-  &nbsp;  &nbsp;
-  <img  width=35px;  height =35px; src="https://rohithanss.github.io/skills/expressJs.png" alt="">
-  &nbsp;  &nbsp;
-  <img width=35px;  height =35px; src="https://hanumat-sharan.github.io/static/media/mongodb-seeklogo.com.1aca075d5cce0819fea7ea0902d94ce4.svg" alt="">
-  &nbsp;  &nbsp;
-  <img width=35px;  height =35px;  src="https://rohithanss.github.io/skills/nodejs.png" alt="">
-</p>                                                                                                                                                                                                                                                                                  
-<br> <br>    
-
-
- <div  align="center" color="black"> 
- 
- <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=tankvivek&show_icons=true&locale=en" alt="tankvivek" />
- <img width="45%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs?username=tankvivek&show_icons=true&locale=en&layout=compact" alt="tankvivek" />
- <br><BR> <BR>
-
- <img src="https://ghchart.rshah.org/TankVivek" alt="Akash-298" style="width: 100%;height: auto; margin-top: 5vh;color: green;">
- <BR> <BR>
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=tankvivek&" alt="tankvivek" />
-
- </div>
+</div>  
  
 <!--  FOOTER -->
  
