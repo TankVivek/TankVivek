@@ -28,7 +28,7 @@
  
 [<img src="https://img.shields.io/badge/instagram-E75480?style=for-the-badge&logo=instagram&logoColor=white"/>](https://instagram.com/vivek__tank__)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/vivek-tank)
-[<img src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/JaydeepSondagar)
+[<img src="https://img.shields.io/badge/Twitter-2CA5E0?style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/vivektank136)
 
 
  
