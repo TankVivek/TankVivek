@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi, I'm Vivek 👋 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Hello%2C+everyone!;My+name+is+Vivek+Tank;I'm+23+years+old;I+live+in+Surat+Gujarat;Be+welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Hello%2C+everyone!;My+name+is+Vivek+Tank;I'm+21+years+old;I+live+in+Surat+Gujarat;Be+welcome!)](https://git.io/typing-svg)
 
 
 - 🌱 I’m currently Learning Web development course at Tops-Technologies
