@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently Learning Web development course at Tops-Technologies
-- 📫 Check Profile : <a href="https://tankvivek.github.io/HTML/visulas/portfolio.html"</a>
+- 📫 Check Profile : https://tankvivek.github.io/HTML/visulas/portfolio.html
 
 <br/><br/>
 
