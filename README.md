@@ -22,7 +22,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=My+Project)](https://git.io/typing-svg)
   <div align="left">
   
-  
+  You can access the live demo of the E-Shopper web application [here](https://e-shopper-v5hk.onrender.com/).
   
 <!--          <h3> 🔭  Chat Apps  :  <a href="https://chatapps-d7js.onrender.com" >click here</a></h3>  -->
 
