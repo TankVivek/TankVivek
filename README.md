@@ -4,6 +4,7 @@
 <!-- <h1 align="center"> Hi, I'm Vivek 👋 </h1> -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682b4&height=160&section=header&text=Vivek+Tank&fontSize=35&fontColor=white&animation=twinkling&fontAlignY=35" />
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Hello%2C+everyone!;My+name+is+Vivek+Tank;I'm+21+years+old;I+live+in+Surat+Gujarat;Be+welcome!)](https://git.io/typing-svg)
 
 
